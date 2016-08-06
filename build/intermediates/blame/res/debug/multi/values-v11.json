@@ -1,0 +1,188 @@
+[
+    {
+        "outputFile": "E:\\src\\androidstudio\\TestDemo\\testDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 126
+                },
+                "from": {
+                    "file": "E:\\src\\androidstudio\\TestDemo\\testDemo\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 131,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "E:\\src\\androidstudio\\TestDemo\\testDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1780
+                },
+                "from": {
+                    "file": "E:\\src\\androidstudio\\TestDemo\\testDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1126,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1785,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2604
+                },
+                "from": {
+                    "file": "E:\\src\\androidstudio\\TestDemo\\testDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1939,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 2758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2609,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 3458
+                },
+                "from": {
+                    "file": "E:\\src\\androidstudio\\TestDemo\\testDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2764,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 3613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3463,
+                    "endColumn": 112,
+                    "endOffset": 3571
+                },
+                "from": {
+                    "file": "E:\\src\\androidstudio\\TestDemo\\testDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 3845,
+                        "endColumn": 119,
+                        "endOffset": 3960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3576,
+                    "endColumn": 94,
+                    "endOffset": 3666
+                },
+                "from": {
+                    "file": "E:\\src\\androidstudio\\TestDemo\\testDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3966,
+                        "endColumn": 101,
+                        "endOffset": 4063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3671,
+                    "endColumn": 116,
+                    "endOffset": 3783
+                },
+                "from": {
+                    "file": "E:\\src\\androidstudio\\TestDemo\\testDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4069,
+                        "endColumn": 123,
+                        "endOffset": 4188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3788,
+                    "endColumn": 124,
+                    "endOffset": 3908
+                },
+                "from": {
+                    "file": "E:\\src\\androidstudio\\TestDemo\\testDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4194,
+                        "endColumn": 131,
+                        "endOffset": 4321
+                    }
+                }
+            }
+        ]
+    }
+]
